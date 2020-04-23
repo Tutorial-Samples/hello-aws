@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.hello.aws</groupId>
     <artifactId>hello-aws</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>hello-aws</name>
     <description>Deploying to AWS using Docker</description>
 
